@@ -1,0 +1,26 @@
+==============================
+MATCH PRICING
+==============================
+France vs England
+
+Expected goals:
+France: 1.254
+England: 1.075
+
+Model probabilities:
+home_win: 40.387%
+draw: 28.017%
+away_win: 31.596%
+
+Fair odds:
+home_win: 2.48
+draw: 3.57
+away_win: 3.16
+
+==============================
+MARKET COMPARISON
+==============================
+ outcome  model_prob  market_prob_no_vig      edge  market_odds  fair_odds  kelly_fraction  suggested_stake
+away_win    0.315957            0.293498  0.022459         3.20   3.164991        0.001257         1.256985
+home_win    0.403874            0.408345 -0.004471         2.30   2.476020        0.000000         0.000000
+    draw    0.280169            0.298157 -0.017988         3.15   3.569271        0.000000         0.000000
