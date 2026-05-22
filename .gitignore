@@ -3,4 +3,5 @@ __pycache__/
 .ipynb_checkpoints/
 data/raw/*.csv
 data/processed/*.csv
+!data/processed/official_2026_groups.csv
 .DS_Store
